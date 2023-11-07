@@ -1,0 +1,76 @@
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.exe.config
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.exe
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.pdb
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.AboutBox1.resources
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form1.resources
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form2.resources
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form3.resources
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.Properties.Resources.resources
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.exe
+C:\Users\user\Desktop\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.pdb
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.AboutBox1.resources
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form1.resources
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form2.resources
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form3.resources
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.Properties.Resources.resources
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.GenerateResource.cache
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.exe
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.pdb
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.exe.config
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.exe
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.pdb
+C:\Users\user\Desktop\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.Form4.resources
+D:\19\WFApp19_09\WFApp19_09\bin\Debug\Printer09.mdb
+D:\19\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.exe.config
+D:\19\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.exe
+D:\19\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.pdb
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csprojAssemblyReference.cache
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.AboutBox1.resources
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form1.resources
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form2.resources
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form3.resources
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.Form4.resources
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.Properties.Resources.resources
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.GenerateResource.cache
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.CoreCompileInputs.cache
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.exe
+D:\19\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.pdb
+E:\19 — копия\WFApp19_09\WFApp19_09\bin\Debug\Printer09.mdb
+E:\19 — копия\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.exe.config
+E:\19 — копия\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.exe
+E:\19 — копия\WFApp19_09\WFApp19_09\bin\Debug\WFApp18_09.pdb
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.AssemblyReference.cache
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.SuggestedBindingRedirects.cache
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.AboutBox1.resources
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form1.resources
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form2.resources
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.Form3.resources
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.Form4.resources
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.Properties.Resources.resources
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.GenerateResource.cache
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp19_09.csproj.CoreCompileInputs.cache
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.exe
+E:\19 — копия\WFApp19_09\WFApp19_09\obj\Debug\WFApp18_09.pdb
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\bin\Debug\Printer09.mdb
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\bin\Debug\WFApp18_09.exe.config
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\bin\Debug\WFApp18_09.exe
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\bin\Debug\WFApp18_09.pdb
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp20_09.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp20_09.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp20_09.AboutBox1.resources
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp20_09.Form1.resources
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp20_09.Form2.resources
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp20_09.Form3.resources
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp20_09.Form4.resources
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp18_09.Properties.Resources.resources
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp20_09.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp20_09.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp18_09.exe
+C:\Users\user\Desktop\WFApp20_09\WFApp20_09\obj\Debug\WFApp18_09.pdb
